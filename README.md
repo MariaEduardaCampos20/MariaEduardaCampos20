@@ -1,6 +1,6 @@
 # Bem-vindo(a)!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá,+eu+sou+a+Maria+Eduarda+Campos;Tenho+17+anos;Desenvolvedora+de+Software;Bem-vindo+ao+meu+perfil+GitHub&center=true&width=500&color=73142D)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Olá,+eu+sou+a+Maria+Eduarda+Campos;Tenho+17+anos;Desenvolvedora+de+Software;Bem-vindo+ao+meu+perfil+GitHub&center=true&width=500&color=FAB4F2)
 
 Aqui você encontrará alguns dos meus projetos que desenvolvi e muito mais. Sinta-se à vontade para explorar!
 
