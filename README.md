@@ -1,7 +1,7 @@
 <h1 align="center">Bem-vindo(a)!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Olá,+eu+sou+a+Maria+Eduarda+Oliveira+Campos;Tenho+17+anos;Desenvolvedora+de+Software;Bem-vindo+ao+meu+perfil+GitHub&center=true&width=600&height=50&color=FAB4F2">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Olá,+eu+sou+a+Maria+Eduarda+Oliveira+Campos.;Tenho+17+anos.;Desenvolvedora+de+Software.;Bem-vindo+ao+meu+perfil+GitHub.&center=true&width=600&height=50&color=FAB4F2">
 </p>
 
 <p align="center">
