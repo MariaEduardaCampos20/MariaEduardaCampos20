@@ -12,8 +12,9 @@
 
 ## Sobre mim
 
-- 🌱 Atualmente aprendendo: **Inglês**
-- 💬 Pergunte-me sobre: **Desenvolvimento de sistemas**
+- 🌱 Atualmente aprendendo: **Machine Learning **
+- 🖥️ Cursando: **Técnico em informática**
+- 💬 Pergunte-me sobre: **Desenvolvimento de sistemas**|**Inglês**
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/maria-eduardameoc/) | [Email](mailto:mariaeduocampos@gmail.com)
 - ⚡ Curiosidade: Apaixonada por tecnologia e sempre pronta para novos desafios!
 
